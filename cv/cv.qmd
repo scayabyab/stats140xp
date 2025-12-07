@@ -19,28 +19,44 @@ validate-yaml: false
 csl: apa-cv.csl
 ---
 
-# Employment
-
-*Arthur Guinness & Son*
-
-Chief Brewer (Park Royal) \hfill 1935-1937
-
-Researcher (Dublin) \hfill 1899-1935
-\vfill
-
 # Education
 
-*New College, Oxford University*, B.A. Chemistry \hfill 1899
+**University of California, Los Angeles**  \hfill 2024-Current \newline
+*B.A. Statistics and Data Science*
 \vfill
 
-# Work Experience
+
+
+# Skills
+**Programming & Tools:** Computational Statistics with R • Object-Oriented Programming in C++
+
+**Statistical Methods:** Data Analysis and Regression • Design and Analysis of Experiments •
+Statistical Models
+
+**Mathematics & Optimization:** Linear Algebra • Computation and Optimization • Monte Carlo
+Methods • Data Mining
+\vfill
+
+# Projects
+
+**C++ Robotics Project** — Designed and implemented a robot using C++ to execute sensor-based
+movement and decision logic.
+
 
 \vfill
 
-# Relevant Courses
+# Employment
 
+Starbucks Coffee Company - *Shift Supervisor* \hfill April 2022 - Sept. 2024
 
-
+• Led a diverse team to ensure smooth, efficient daily operations in a fast-paced environment. \newline
+• Fostered strong collaboration and communication among team members to maintain
+consistent service quality. \newline
+• Trained and mentored new employees, promoting a supportive and growth-oriented
+workplace culture. \newline
+• Coordinated with management to implement workflow improvements and enhance team
+productivity.\newline
 
 \vfill
+
 
