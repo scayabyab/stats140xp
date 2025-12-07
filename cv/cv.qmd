@@ -10,7 +10,7 @@ email: salvatorecayabyab@gmail.com
 fontsize: 11pt
 
 github: scayabyab # github account
-orcid: 0000-0002-1825-0097 # orcid identifier
+# orcid: 0000-0002-1825-0097 # orcid identifier
 # web: quarto.org
 fontawesome: yes
 nocite: '@*'
